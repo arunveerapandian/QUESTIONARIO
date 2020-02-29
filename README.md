@@ -1,9 +1,11 @@
 # QUESTIONARIO
 <h3>INSTRUCTIONS:</h3>
 <ol>
-  <li>Use MongoDB Clone: ''</li>
+  <li>Use MongoDB Cloud: 'https://www.mongodb.com/cloud'</li>
   <li>Start with free MongoDB</li>
   <li>Make sure all node modules have been installed listed in package.json: express, moment, mongodb, mongoose, socket.io</li>
+  <li>Install Node</li>
+  <li>Run npm install to download node modules</li>
   <li>Start Server: nodejs server/server.js</li>
 </ol>
 <br>
